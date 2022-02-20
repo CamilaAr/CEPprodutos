@@ -1,0 +1,43 @@
+img   {
+	border-radius: 10px; 
+	border-width: 2px; 
+	border: solid; 
+	padding: 5px; 
+	border-color: lightgray;"
+}
+
+.titulo{
+	text-align: center; 
+	font-weight: bolder;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.btnComp{
+	border-color: #F14554; 
+	background-color: #F14554; 
+	color: white; 
+	border-radius: 10px;
+	padding: 10px;
+	font-size: 20px;
+}
+
+.btnComp:hover{
+	border-color: #F14554; 
+	background-color: transparent;
+	color: #F14554;
+	border-radius: 10px;
+	padding: 10px;
+	border-width: 2px;
+	border: solid; 
+	text-decoration: none;
+
+
+}
+
+.formulario{
+	border: solid;
+	padding: 20px; 
+	border-color:  lightgray;
+	border-radius: 10px;
+}
